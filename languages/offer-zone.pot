@@ -1,0 +1,35 @@
+# Copyright (C) 2021 MakeWebBetter
+# This file is distributed under the same license as the Offer Zone Plugin plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Offer Zone Plugin 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/offer-zone\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-08-26T11:55:22+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: offer-zone\n"
+
+#. Plugin Name of the plugin
+msgid "Offer Zone Plugin"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/hello-dolly/"
+msgstr ""
+
+#. Description of the plugin
+msgid "This is normal plugin for the wordpress testing"
+msgstr ""
+
+#. Author of the plugin
+msgid "MakeWebBetter"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://ma.tt/"
+msgstr ""
